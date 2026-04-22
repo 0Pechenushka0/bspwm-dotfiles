@@ -1,0 +1,16 @@
+[font]
+size = 12
+
+builtin_box_drawing = true
+
+[font.normal]
+family = "Maple Mono NF"
+style = "Regular"
+
+[font.bold]
+family = "Maple Mono NF"
+style = "Bold"
+
+[font.italic]
+family = "Maple Mono NF"
+style = "Italic"
