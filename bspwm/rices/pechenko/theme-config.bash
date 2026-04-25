@@ -5,31 +5,6 @@
 # https://github.com/gh0stzk/dotfiles
 
 #  colorscheme
-bg="#0E1113"
-fg="#afb1db"
-
-black="#353c52"
-red="#e7034a"
-green="#61b33e"
-yellow="#ffb964"
-blue="#5884d4"
-magenta="#7a44e3"
-cyan="#7df0f0"
-white="#afb1db"
-blackb="#353c52"
-redb="#e71c5b"
-greenb="#6fb352"
-yellowb="#ffb964"
-blueb="#5f90ea"
-magentab="#8656e3"
-cyanb="#97f0f0"
-whiteb="#afb1db"
-
-accent_color="#111517"
-arch_icon="#0f94d2"
-
-# =====================================================
-
 bg_main='#0A0A0A'         
 bg_polybar='#141414'      
 bg_inactive_win='#1E1E1E'  
@@ -78,7 +53,7 @@ dunst_offset='(20, 60)'
 dunst_origin='top-right'
 dunst_transparency='8'
 dunst_corner_radius='0'
-dunst_font='JetBrainsMono NF Medium 9'
+dunst_font='JetBrainsMono NF Medium 15'
 dunst_border='2'
 dunst_frame_color="$grey_dim"
 dunst_icon_theme="Sweet-Rainbow"
@@ -129,5 +104,5 @@ geany_theme="z0mbi3-z0mbi3Night"
 ENGINE="Slideshow"
 
 CUSTOM_DIR="/home/maxim/rice-wallpaper"
-DEFAULT_WALL="/home/maxim/.config/bspwm/rices/pechenko/walls/andrew-kliatskyi-9l_R8EBQ7-c-unsplash.jpg"
+DEFAULT_WALL="/home/maxim/.config/bspwm/rices/pechenko/walls/andrew-neel-xNiJJHl0WP4-unsplash.jpg"
 ANIMATED_WALL="$HOME/.config/bspwm/config/assets/animated_wall.mp4"

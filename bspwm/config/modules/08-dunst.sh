@@ -17,18 +17,18 @@ sed -i '/urgency_low/Q' "$dunst_config_file"
 cat >>"$dunst_config_file" <<-_EOF_
 [urgency_low]
 timeout = 3
-background = "${bg}"
-foreground = "${green}"
+background = ${bg_polybar}
+foreground = ${text_primary}
 
 [urgency_normal]
 timeout = 5
-background = "${bg}"
-foreground = "${fg}"
+background = ${bg_inactive_win}
+foreground = ${text_primary}
 
 [urgency_critical]
 timeout = 0
-background = "${bg}"
-foreground = "${red}"
+background = ${error_red}
+foreground = ${bg_main}
 _EOF_
 
 dunstctl reload "$dunst_config_file"

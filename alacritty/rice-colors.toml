@@ -1,31 +1,28 @@
-# Default colors
+# Black & Neon Theme (generated from theme-config.bash)
 [colors.primary]
-background = "#0E1113"
-foreground = "#afb1db"
+background = "#0A0A0A"
+foreground = "#EAEAEA"
 
-# Cursor colors
 [colors.cursor]
-cursor = "#afb1db"
-text = "#0E1113"
+cursor = "#43ffaf"
+text = "#0A0A0A"
 
-# Normal colors
 [colors.normal]
-black = "#353c52"
-red = "#e7034a"
-green = "#61b33e"
-yellow = "#ffb964"
-blue = "#5884d4"
-magenta = "#7a44e3"
-cyan = "#7df0f0"
-white = "#afb1db"
+black = "#0A0A0A"
+red = "#CC3333"
+green = "#43ffaf"
+yellow = "#5cffbe"
+blue = "#7affcc"
+magenta = "#1A5A4A"
+cyan = "#a0ffdb"
+white = "#EAEAEA"
 
-# Bright colors
 [colors.bright]
-black = "#353c52"
-red = "#e71c5b"
-green = "#6fb352"
-yellow = "#ffb964"
-blue = "#5f90ea"
-magenta = "#8656e3"
-cyan = "#97f0f0"
-white = "#afb1db"
+black = "#141414"
+red = "#CC3333"
+green = "#5cffbe"
+yellow = "#7affcc"
+blue = "#a0ffdb"
+magenta = "#43ffaf"
+cyan = "#a0ffdb"
+white = "#FFFFFF"

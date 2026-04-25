@@ -5,35 +5,32 @@ sed -i "$HOME"/.config/alacritty/fonts.toml \
     -e "s/family = .*/family = \"$term_font_name\"/"
 
 cat >"$HOME"/.config/alacritty/rice-colors.toml <<-EOF
-# Default colors
+# Black & Neon Theme (generated from theme-config.bash)
 [colors.primary]
-background = "${bg}"
-foreground = "${fg}"
+background = "${bg_main}"
+foreground = "${text_primary}"
 
-# Cursor colors
 [colors.cursor]
-cursor = "${fg}"
-text = "${bg}"
+cursor = "${accent_medium}"
+text = "${bg_main}"
 
-# Normal colors
 [colors.normal]
-black = "${black}"
-red = "${red}"
-green = "${green}"
-yellow = "${yellow}"
-blue = "${blue}"
-magenta = "${magenta}"
-cyan = "${cyan}"
-white = "${white}"
+black = "${bg_main}"
+red = "${error_red}"
+green = "${accent_medium}"
+yellow = "${accent_bright}"
+blue = "${accent_active}"
+magenta = "${accent_dark}"
+cyan = "${accent_light}"
+white = "${text_primary}"
 
-# Bright colors
 [colors.bright]
-black = "${blackb}"
-red = "${redb}"
-green = "${greenb}"
-yellow = "${yellowb}"
-blue = "${blueb}"
-magenta = "${magentab}"
-cyan = "${cyanb}"
-white = "${whiteb}"
+black = "${bg_polybar}"
+red = "${error_red}"
+green = "${accent_bright}"
+yellow = "${accent_active}"
+blue = "${accent_light}"
+magenta = "${accent_medium}"
+cyan = "${accent_light}"
+white = "${border_active}"
 EOF
