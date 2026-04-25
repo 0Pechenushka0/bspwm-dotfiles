@@ -128,7 +128,7 @@ geany_theme="z0mbi3-z0mbi3Night"
 # - Default (Sets a specific image as wallpaper) *Default
 # - Animated (Set an animated wallpaper. "mp4, mkv, gif")
 # - Slideshow (Change randomly every 15 minutes your wallpaper from Walls rice directory)
-ENGINE="Default"
+ENGINE="Slideshow"
 
 CUSTOM_DIR="/home/maxim/rice-wallpaper"
 DEFAULT_WALL="/home/maxim/.config/bspwm/rices/pechenko/walls/vladimir-malyutin-6A_hN1SFjRI-unsplash.jpg"
