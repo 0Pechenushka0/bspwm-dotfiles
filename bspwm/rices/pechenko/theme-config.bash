@@ -29,29 +29,27 @@ accent_color="#111517"
 arch_icon="#0f94d2"
 
 # =====================================================
-# BLACK & NEON CUSTOM PALETTE (Monkeytype Superuser)
-# =====================================================
 
-bg_main='#0A0A0A'          # главный фон
-bg_polybar='#141414'       # фон панели
-bg_inactive_win='#1E1E1E'  # фон неактивных окон
-bg_borders='#2A2A2A'       # границы, разделители
-bg_empty_ws='#333333'      # фон пустых рабочих столов
+bg_main='#0A0A0A'         
+bg_polybar='#141414'      
+bg_inactive_win='#1E1E1E'  
+bg_borders='#2A2A2A'       
+bg_empty_ws='#333333'     
 
-grey_dim='#666666'         # рамки/текст для пустых столов
-grey_inactive='#A0A0A0'    # неактивный текст
+grey_dim='#666666'         
+grey_inactive='#A0A0A0'   
 
-error_red='#CC3333'        # ошибки, закрытие
+error_red='#CC3333'       
 
-accent_dark='#1A5A4A'      # края polybar, тёмные рамки
-accent_medium='#43ffaf'    # занятый неактивный стол, иконки
-accent_bright='#5cffbe'    # иконки, индикаторы
-accent_active='#7affcc'    # активный рабочий стол
-accent_light='#a0ffdb'     # иконка arch, яркие акценты
+accent_dark='#1A5A4A'      
+accent_medium='#43ffaf'   
+accent_bright='#5cffbe'    
+accent_active='#7affcc'    
+accent_light='#a0ffdb'     
 
-text_primary='#EAEAEA'     # основной текст команд
-text_secondary='#DDDDDD'   # вывод команд (мягкий белый)
-border_active='#FFFFFF'    # подсветка активного окна (чистый белый)
+text_primary='#EAEAEA'     
+text_secondary='#DDDDDD'   
+border_active='#FFFFFF'    
 #-----------------------------------------------------------------------
 # Bspwm options
 BORDER_WIDTH="3"		# Bspwm border
@@ -131,5 +129,5 @@ geany_theme="z0mbi3-z0mbi3Night"
 ENGINE="Slideshow"
 
 CUSTOM_DIR="/home/maxim/rice-wallpaper"
-DEFAULT_WALL="/home/maxim/.config/bspwm/rices/pechenko/walls/vladimir-malyutin-6A_hN1SFjRI-unsplash.jpg"
+DEFAULT_WALL="/home/maxim/.config/bspwm/rices/pechenko/walls/andrew-kliatskyi-9l_R8EBQ7-c-unsplash.jpg"
 ANIMATED_WALL="$HOME/.config/bspwm/config/assets/animated_wall.mp4"
