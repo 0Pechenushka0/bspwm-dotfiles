@@ -91,7 +91,7 @@ sl_verify="$text_secondary"
 
 # Gtk theme
 gtk_theme="z0mbi3Night-zk"
-gtk_icons="Vimix-black-dark"
+gtk_icons="Dracula"
 gtk_cursor="Bibata-Modern-Classic"
 geany_theme="z0mbi3-z0mbi3Night"
 
