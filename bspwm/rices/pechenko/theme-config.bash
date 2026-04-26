@@ -57,6 +57,7 @@ dunst_font='JetBrainsMono NF Medium 15'
 dunst_border='2'
 dunst_frame_color="$grey_dim"
 dunst_icon_theme="Sweet-Rainbow"
+
 # Dunst animations
 dunst_close_preset="fly-out"
 dunst_close_direction="up"
@@ -104,5 +105,5 @@ geany_theme="z0mbi3-z0mbi3Night"
 ENGINE="Slideshow"
 
 CUSTOM_DIR="/home/maxim/rice-wallpaper"
-DEFAULT_WALL="/home/maxim/.config/bspwm/rices/pechenko/walls/andrew-neel-xNiJJHl0WP4-unsplash.jpg"
+DEFAULT_WALL="/home/maxim/.config/bspwm/rices/pechenko/walls/wallhaven-mdz989_2560x1600.png"
 ANIMATED_WALL="$HOME/.config/bspwm/config/assets/animated_wall.mp4"

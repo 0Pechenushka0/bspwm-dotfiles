@@ -86,9 +86,9 @@ background = #141414
 foreground = #EAEAEA
 
 [urgency_normal]
-background = #141414
+timeout = 5
+background = #1E1E1E
 foreground = #EAEAEA
-frame_color = #666666
 
 [urgency_critical]
 timeout = 0
