@@ -90,10 +90,10 @@ sl_date="$accent_active"
 sl_verify="$text_secondary"
 
 # Gtk theme
-gtk_theme="z0mbi3Night-zk"
+gtk_theme="Graphite-Dark"
 gtk_icons="Dracula"
 gtk_cursor="Bibata-Modern-Classic"
-geany_theme="z0mbi3-z0mbi3Night"
+geany_theme="Graphite-Dark"
 
 # Wallpaper engine
 # Available engines:
@@ -105,5 +105,5 @@ geany_theme="z0mbi3-z0mbi3Night"
 ENGINE="Slideshow"
 
 CUSTOM_DIR="/home/maxim/rice-wallpaper"
-DEFAULT_WALL="/home/maxim/.config/bspwm/rices/pechenko/walls/wallhaven-mdz989_2560x1600.png"
+DEFAULT_WALL="/home/maxim/.config/bspwm/rices/pechenko/walls/am-yQNpvXzbUMk-unsplash.jpg"
 ANIMATED_WALL="$HOME/.config/bspwm/config/assets/animated_wall.mp4"

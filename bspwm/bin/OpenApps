@@ -76,7 +76,7 @@ case "$1" in
 		firefox
 		;;
 	--editor)
-		code
+		obsidian
 		;;
 	--telegram)
 		Telegram
