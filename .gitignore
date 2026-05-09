@@ -30,3 +30,6 @@ zsh/
 *~
 *.bak
 .cache/
+<Right># Neovim кэш
+nvim/lazy-lock.json
+nvim/lazyvim.json
